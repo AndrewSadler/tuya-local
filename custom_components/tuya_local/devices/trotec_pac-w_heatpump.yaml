@@ -6,6 +6,10 @@ products:
   - id: baefd3ueooanec3x
     manufacturer: Qlima
     model: WDH 229 PTC
+  - id: l0j3nfohssitenwa
+    manufacturer: ElectriQ
+    model: iQool 12000 wall mounted all-in-one
+    model_id: YWA-PTAC
 entities:
   - entity: climate
     dps:
